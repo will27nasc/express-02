@@ -1,0 +1,26 @@
+{
+  "name": "express-02",
+  "version": "1.0.0",
+  "description": "Aprendendo a criar rotas com express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will27nasc/express-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/will27nasc/express-02/issues"
+  },
+  "homepage": "https://github.com/will27nasc/express-02#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
